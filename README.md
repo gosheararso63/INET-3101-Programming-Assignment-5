@@ -31,4 +31,7 @@ The server also includes signal handling using SIGINT so that pressing Ctrl+C wi
 - Handles only one client at a time (no concurrency)  
 - Limited to files with a maximum of 255 characters  
 - Client is hardcoded to connect to localhost  
-- Minimal security (no encryption or authentication)  
+- Minimal security (no encryption or authentication)
+
+### Screenshots:
+https://drive.google.com/file/d/1PUS9xon_fHV7iQfRPWY8EdsuXFeN4If8/view?usp=sharing
