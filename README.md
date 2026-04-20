@@ -1,7 +1,6 @@
 # INET-3101-Programming-Assignment-5
 C client-server program using sockets to request files, handle errors, and support graceful shutdown.
 
-# INET 3101 - Programming Assignment 5
 
 ## Problem Statement
 This project implements a client-server application in C using socket programming. The server accepts a filename from the client and returns the file contents as a text response. The file must not exceed 255 characters. The program must also handle error conditions such as invalid filenames, file not found, and files exceeding the allowed size. As a bonus feature, the server supports graceful shutdown using signal handling.
